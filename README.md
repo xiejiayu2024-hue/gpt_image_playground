@@ -410,12 +410,6 @@ JSON 结构示例：
   <br>
 </div>
 
-## 📄 许可证 & 致谢
-
-本项目基于 [MIT License](LICENSE) 开源。
-
-特别致谢：[LINUX DO](https://linux.do)
-
 ## 💜 赞助支持
 
 <div align="center">
